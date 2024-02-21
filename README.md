@@ -2,12 +2,15 @@
 
 This is the zip file of my code----
 In this project Iam using HTML,CSS,JAVASCRIPT,MYSQL & PHP.
-If you want to run the code You need to oprn with chrome or search engine with localhost.
+If you want to run the code You need to open with chrome or search engine with localhost.
 step1-
 http://localhost/Hyscaler19 
   then enter.
 step-2
-in this page you having two options one is login and another is register your account and choose user type if you are a admin choose admin and if you are user then choose user
+in this page you having two options one is login and another is register your account and choose user type if you are a admin choose admin and if you are user then choose user.
+
+
+
 admin details
 --------------
 1.
